@@ -32,8 +32,7 @@ The following elevator was Found in the Mathematics building on campus.
 ### Sequence 
     - After a user it enters the elevator it is assumed they will press the button of the floor they wish to go to
     - They may or may not hit the door open of door close, depending on external circumstances
-    - All users picked up
- along the way have the same options as the first user
+    - All users picked up along the way have the same options as the first user
     - If the elevator stops working the user will press the bell button to speak to an employee
 
 ### Design
@@ -54,15 +53,16 @@ The following elevator was Found in the Mathematics building on campus.
 ### Size
 The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. 
     
-### Hnadling Single Floors
+### Interactive Design 
+#### Hnadling Single Floors
 
 ![single](https://user-images.githubusercontent.com/82000483/192652932-a3be19ae-64f6-4b3e-8bf4-68ccff1366ee.gif)
 
-### Handling Multiple Floors
+#### Handling Multiple Floors
 
 ![triple](https://user-images.githubusercontent.com/82000483/192652957-e38d5160-16e2-45ac-be0b-7ecf694cf2c9.gif)
 
-### Handling Elevator Errors
+#### Handling Elevator Errors
 
 ![error](https://user-images.githubusercontent.com/82000483/192653031-7c009de5-5e90-4b99-81b1-176cf53126fa.gif)
 
