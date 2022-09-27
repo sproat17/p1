@@ -30,8 +30,20 @@
     - The lobby button replaces the first floor as it would be previously known that there is a lobby
     - The two button is the first numbered floor as it is the second story and one floor above the lobby
 
-## For an A; 
+## For an A:
 
 ### Size
     - The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. 
     
+### Hnadling Single Floors
+
+![single](https://user-images.githubusercontent.com/82000483/192652932-a3be19ae-64f6-4b3e-8bf4-68ccff1366ee.gif)
+
+### Handling Multiple Floors
+
+![triple](https://user-images.githubusercontent.com/82000483/192652957-e38d5160-16e2-45ac-be0b-7ecf694cf2c9.gif)
+
+### Handling Elevator Errors
+
+![error](https://user-images.githubusercontent.com/82000483/192653031-7c009de5-5e90-4b99-81b1-176cf53126fa.gif)
+
