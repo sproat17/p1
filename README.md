@@ -7,7 +7,7 @@
     - A button to communicate with an employee should hopefully never be used, however it important to have that functionality in case something does go wrong
 
 <suq> Sequence </sup>
-    * After a user it enters the elevator it is assumed they will press the button of the floor they wish to go to
+    - After a user it enters the elevator it is assumed they will press the button of the floor they wish to go to
     * They may or may not hit the door open of door close, depending on external circumstances
     * All users picked up along the way have the same options as the first user
     * If the elevator stops working the user will press the bell button to speak to an employee
