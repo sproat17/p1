@@ -1,10 +1,10 @@
 **For a B:**
 
 <suq> Common Uses </sup>
-    * The main function of an elevator is to transport people between floors
-    * This means that the floor buttons are the most important for passengers
-    * Buttons to make the travel between floors faster are secondary
-    * A button to communicate with an employee should hopefully never be used, however it important to have that functionality in case something does go wrong
+    - The main function of an elevator is to transport people between floors
+    - This means that the floor buttons are the most important for passengers
+    - Buttons to make the travel between floors faster are secondary
+    - A button to communicate with an employee should hopefully never be used, however it important to have that functionality in case something does go wrong
 
 <suq> Sequence </sup>
     * After a user it enters the elevator it is assumed they will press the button of the floor they wish to go to
