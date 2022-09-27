@@ -52,7 +52,7 @@ The following elevator was Found in the Mathematics building on campus.
 ## For an A:
 
 ### Size
-    - The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. 
+The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. 
     
 ### Hnadling Single Floors
 
