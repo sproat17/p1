@@ -1,4 +1,4 @@
-**Foar a B:**
+**For a B:**
 
 <suq> Common Uses </sup>
     * The main function of an elevator is to transport people between floors
