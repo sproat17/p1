@@ -1,5 +1,24 @@
 # Project 1: The Elevator interface
 
+## For a C:
+
+### Elevator
+
+Was Found in the Mathematics building on campus
+
+### Photos
+
+### Interface in Action
+
+### Issues
+
+### Pros and Cons
+| Pros          | Cons          |
+| ------------- |:-------------:|
+| simple        | ugly          | 
+| col 2 is      | centered      | 
+| zebra stripes | are neat      |
+
 ## For a B:
 
 ![20220926_183335](https://user-images.githubusercontent.com/82000483/192629666-8fec563a-b9ec-4d10-9e9c-de73a5dc01f2.jpg)
