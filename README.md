@@ -46,11 +46,7 @@ The following elevator was Found in the Mathematics building on campus.
 ### Defense of Control Interface
     - A small amount of area between the commonly used buttons and less commonly used buttons
     - The garage button is the first button as it is the lowest floor
-    - The lobby button replaces the first floo| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |r as it would be previously known that there is a lobby
+    - The lobby button replaces the first floor as it would be previously known that there is a lobby
     - The two button is the first numbered floor as it is the second story and one floor above the lobby
 
 ## For an A:
