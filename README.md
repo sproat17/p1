@@ -52,14 +52,16 @@ The following elevator was Found in the Mathematics building on campus.
 ## For an A:
 
 ### Size and Design
-The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. The design of the interface follows the sketch from part B. The screenshot shows a user on floor 3 wishing to travel to the lobby.
+The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. The design of the interface follows the sketch from part B, aside from the fact thata stat was added next to the "L" button. The star next to the "L" button signifies that the lobby is the main floor for entrance to the building. The screenshot shows a user on floor 6 wishing to travel to the lobby.
 
-![screen](https://user-images.githubusercontent.com/82000483/192666446-f7c6d0db-f574-4157-ba9c-2f6edbae93ce.png)
+![screen](https://user-images.githubusercontent.com/82000483/192670656-0641eff7-3a91-4d7c-b89e-340987748c6a.png)
 
     
 ### Interactive Design 
 
 #### Handling Single Floors
+
+The User enters on floor 3 and travels to Garage of the building. 
 
 ![single](https://user-images.githubusercontent.com/82000483/192652932-a3be19ae-64f6-4b3e-8bf4-68ccff1366ee.gif)
 
