@@ -11,7 +11,7 @@ The following elevator was found in Holden Hall on campus.
 ![ss](https://user-images.githubusercontent.com/82000483/192877637-15fc2dda-aaa4-440a-adf9-ac7fcabc0bc1.jpg)
 
 ### Interface in Action
-    -
+    
 ![user](https://user-images.githubusercontent.com/82000483/192877763-3402f978-270f-406e-b6b4-14187589efa9.gif)
 
 ### Issues
