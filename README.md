@@ -75,7 +75,7 @@ At least two users enter the elevator at the garage level. One choses floor 3 an
 
 #### Handling Elevator Errors
 
-The user enters the elevator at the lobby and wishes to go to the garage, however as the screen shows the elevator does not go down. By pressing the emergency button a person would be dispatched to manually reset the elevator. The emergency button will stay lit up aswell as any previously on buttons.
+The user enters the elevator at the lobby and wishes to go to the garage, however as the screen shows the elevator does not go down. By pressing the emergency button a person would be dispatched to manually reset the elevator. The emergency button will stay lit up until it is manually rest.
 
 ![error](https://user-images.githubusercontent.com/82000483/192674248-8ef5a948-c7dc-4288-9fa8-403b1b041d46.gif)
 
