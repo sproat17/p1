@@ -4,7 +4,7 @@
 
 ### Elevator
 
-The following elevator was Found in the Mathematics building on campus.
+The following elevator was found in the Mathematics building on campus.
 
 ### Photos
 
