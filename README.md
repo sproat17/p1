@@ -22,7 +22,8 @@ The following elevator was found in the Mathematics building on campus.
 
 ## For a B:
 
-![20220926_183335](https://user-images.githubusercontent.com/82000483/192629666-8fec563a-b9ec-4d10-9e9c-de73a5dc01f2.jpg)
+![skethc](https://user-images.githubusercontent.com/82000483/192679950-087571fe-69b0-4ff1-8fa3-b042fc6dfd46.jpg)
+
 
 ### Common Uses 
     - The main function of an elevator is to transport people between floors
