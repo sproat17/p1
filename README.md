@@ -4,21 +4,32 @@
 
 ### Elevator
 
-The following elevator was found in the Mathematics building on campus.
+The following elevator was found in Holden Hall on campus.
 
-### Photos
+### Photo
+
+![ss](https://user-images.githubusercontent.com/82000483/192877637-15fc2dda-aaa4-440a-adf9-ac7fcabc0bc1.jpg)
 
 ### Interface in Action
+    -
+![user](https://user-images.githubusercontent.com/82000483/192877763-3402f978-270f-406e-b6b4-14187589efa9.gif)
 
 ### Issues
+
+    - G floor is in the basement of the building
+    - Unknown "V" floor
+    - Floor 1 is at the ground level
+    - Elevator skips V floor while traveling from "G" floor to 1st floor
+    - Multiple open and close buttons
+    - Buttons are not grouped together by function
 
 ### Pros and Cons
 
 | Pros          | Cons          |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      | 
-| zebra stripes | are neat      |  
+| Full functionality   | Unkonwn floors | 
+| Buttons ligned up clearly from bottom to top floor     | Ungrouped buttons      | 
+| Braille | Painting over "V" button     |  
 
 ## For a B:
 
