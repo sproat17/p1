@@ -14,7 +14,7 @@ The following elevator was Found in the Mathematics building on campus.
 
 ### Pros and Cons
 | Pros          | Cons          |
-| ------------- |:-------------:|
+| :------------:|:-------------:|
 | simple        | ugly          | 
 | col 2 is      | centered      | 
 | zebra stripes | are neat      |
