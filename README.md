@@ -61,9 +61,11 @@ The control interface is 500×750 pixels, small enough to fit on almost all touc
 
 #### Handling Single Floors
 
-The User enters on floor 3 and travels to Garage of the building. 
+The User enters on floor 6 and travels to the Lobby of the building. 
 
-![single](https://user-images.githubusercontent.com/82000483/192652932-a3be19ae-64f6-4b3e-8bf4-68ccff1366ee.gif)
+![single](https://user-images.githubusercontent.com/82000483/192672035-a0664aa9-940d-4cb4-9ba2-fca100d8d15b.gif)
+
+
 
 #### Handling Multiple Floors
 
