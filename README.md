@@ -68,10 +68,14 @@ The User enters on floor 6 and travels to the Lobby of the building.
 
 #### Handling Multiple Floors
 
-![multiple](https://user-images.githubusercontent.com/82000483/192673283-ad899d69-dacb-48fe-b9ed-be6c795c7bb0.gif)
+At least two users enter the elevator at the garage level. One choses floor 3 and the other floor 4. As the elevator stops at floor 3 a person enters and choses floor 2. The elevator travels to floor 4 and then goes down to floor 2. (Faster than would be safe)
+
+![multiple](https://user-images.githubusercontent.com/82000483/192673706-75fc4657-e9d9-4603-a659-1d358b3fcae7.gif)
 
 
 #### Handling Elevator Errors
 
-![error](https://user-images.githubusercontent.com/82000483/192653031-7c009de5-5e90-4b99-81b1-176cf53126fa.gif)
+The user enters the elevator at the lobby and wishes to go to the garage, however as the screen shows the elevator does not go down. By pressing the emergency button a person would be dispatched to manually reset the elevator. The emergency button will stay lit up aswell as any previously on buttons.
+
+![error](https://user-images.githubusercontent.com/82000483/192674248-8ef5a948-c7dc-4288-9fa8-403b1b041d46.gif)
 
