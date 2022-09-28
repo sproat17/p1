@@ -41,7 +41,7 @@ The following elevator was found in the Mathematics building on campus.
     - The less commonly used buttons are laid out clearly at the bottom of the screen
     - After a button is pressed a red light is displayed around the chosen button
     - There is a small LCD screen that displays the current floor
-    - Due to the “L” buttons this elevator format will only work in a hotel or building with previous knowledge of a lobby 
+    - Due to the “L” button this elevator format will only work in a hotel or building with a previous knowledge of a lobby 
 
 ### Defense of Control Interface
     - A small amount of area between the commonly used buttons and less commonly used buttons
@@ -65,19 +65,17 @@ The User enters on floor 6 and travels to the Lobby of the building.
 
 ![single](https://user-images.githubusercontent.com/82000483/192678961-42b095cf-6144-4bb0-b7a9-34709b772016.gif)
 
-[1627777748133.webm](https://user-images.githubusercontent.com/82000483/192678985-e337655c-e262-4430-bf3e-744dff8165b6.webm)
-
 
 #### Handling Multiple Floors
 
-At least two users enter the elevator at the garage level. One choses floor 3 and the other floor 4. As the elevator stops at floor 3 a person enters and choses floor 2. The elevator travels to floor 4 and then goes down to floor 2. (Faster than would be safe)
+At least two users enter the elevator at the lobby level. One choses floor 4 and the other floor 5. As the elevator stops at floor 4 a person enters and choses floor 8. The elevator travels to floor 5 and then goes to floor 8. (Faster than would be safe)
 
 ![multiple](https://user-images.githubusercontent.com/82000483/192678979-915ec522-f0a7-4d4d-bc9f-b860ab6680b9.gif)
 
 
 #### Handling Elevator Errors
 
-The user enters the elevator at the lobby and wishes to go to the garage, however as the screen shows the elevator does not go down. By pressing the emergency button a person would be dispatched to manually reset the elevator. The emergency button will stay lit up until it is manually rest.
+The user enters the elevator at the lobby and wishes to go to the 4th floor, however as the screen shows the elevator does not go up. By pressing the emergency button a person would be dispatched to manually reset the elevator. The emergency button will stay lit up until it is manually rest.
 
-![error](https://user-images.githubusercontent.com/82000483/192674248-8ef5a948-c7dc-4288-9fa8-403b1b041d46.gif)
+![error](https://user-images.githubusercontent.com/82000483/192679427-7b4696da-2e24-4f0a-8a75-c44269e97690.gif)
 
