@@ -19,7 +19,7 @@ The following elevator was found in Holden Hall on campus.
     - G floor is in the basement of the building
     - Unknown "V" floor
     - Floor 1 is at the ground level
-    - Elevator skips V floor while traveling from "G" floor to 1st floor
+    - Elevator skips "V" floor while traveling from "G" floor to 1st floor
     - Multiple open and close buttons
     - Buttons are not grouped together by function
 
@@ -28,8 +28,9 @@ The following elevator was found in Holden Hall on campus.
 | Pros          | Cons          |
 | ------------- |:-------------:|
 | Full functionality   | Unkonwn floors | 
-| Buttons ligned up clearly from bottom to top floor     | Ungrouped buttons      | 
+| Buttons ligned up clearly between "G" and 3rd floor     | Ungrouped buttons      | 
 | Braille | Painting over "V" button     |  
+| Feedback | Decay of painting and buttons is distracitng     |  
 
 ## For a B:
 
