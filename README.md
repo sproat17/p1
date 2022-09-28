@@ -13,18 +13,12 @@ The following elevator was Found in the Mathematics building on campus.
 ### Issues
 
 ### Pros and Cons
+
 | Pros          | Cons          |
-| :------------:|:-------------:|
-| simple        | ugly          | 
+| ------------- |:-------------:|
+| col 3 is      | right-aligned | 
 | col 2 is      | centered      | 
-| zebra stripes | are neat      |
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |  
 
 ## For a B:
 
@@ -57,10 +51,14 @@ The following elevator was Found in the Mathematics building on campus.
 
 ## For an A:
 
-### Size
-The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. 
+### Size and Design
+The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. The design of the interface follows the sketch from part B. 
+
+![screen](https://user-images.githubusercontent.com/82000483/192666446-f7c6d0db-f574-4157-ba9c-2f6edbae93ce.png)
+
     
 ### Interactive Design 
+
 #### Hnadling Single Floors
 
 ![single](https://user-images.githubusercontent.com/82000483/192652932-a3be19ae-64f6-4b3e-8bf4-68ccff1366ee.gif)
