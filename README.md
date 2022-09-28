@@ -63,13 +63,13 @@ The control interface is 500×750 pixels, small enough to fit on almost all touc
 
 The User enters on floor 6 and travels to the Lobby of the building. 
 
-![single](https://user-images.githubusercontent.com/82000483/192672035-a0664aa9-940d-4cb4-9ba2-fca100d8d15b.gif)
-
+![single](https://user-images.githubusercontent.com/82000483/192673003-5e0a66e0-58ab-401c-82bc-06ce9c6b438c.gif)
 
 
 #### Handling Multiple Floors
 
-![triple](https://user-images.githubusercontent.com/82000483/192652957-e38d5160-16e2-45ac-be0b-7ecf694cf2c9.gif)
+![multiple](https://user-images.githubusercontent.com/82000483/192673283-ad899d69-dacb-48fe-b9ed-be6c795c7bb0.gif)
+
 
 #### Handling Elevator Errors
 
