@@ -41,20 +41,20 @@ The following elevator was found in the Mathematics building on campus.
     - The less commonly used buttons are laid out clearly at the bottom of the screen
     - After a button is pressed a red light is displayed around the chosen button
     - There is a small LCD screen that displays the current floor
-    - Due to the “G” an “L” buttons this elevator format will only work in a hotel with previous knowledge of a garage and lobby 
+    - Due to the “L” buttons this elevator format will only work in a hotel or building with previous knowledge of a lobby 
 
 ### Defense of Control Interface
     - A small amount of area between the commonly used buttons and less commonly used buttons
-    - The garage button is the first button as it is the lowest floor
     - The lobby button replaces the first floor as it would be previously known that there is a lobby
     - The two button is the first numbered floor as it is the second story and one floor above the lobby
 
 ## For an A:
 
 ### Size and Design
-The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. The design of the interface follows the sketch from part B, aside from the fact that a star was added next to the "L" button. The star next to the "L" button signifies that the lobby is the main floor for entrance to the building, as there is no floor 1. The screenshot shows a user on floor 6 wishing to travel to the lobby.
+The control interface is 500×750 pixels, small enough to fit on almost all touch screen devices and large enough to be seen clearly on 1920×1080 screen. The design of the interface closely follows the sketch from part B, aside from the fact that a star was added next to the "L" button. The star next to the "L" button signifies that the lobby is the main floor for entrance to the building, as there is no floor 1. The screenshot shows a user on floor 6 wishing to travel to the lobby.
 
-![screen](https://user-images.githubusercontent.com/82000483/192670656-0641eff7-3a91-4d7c-b89e-340987748c6a.png)
+![screen](https://user-images.githubusercontent.com/82000483/192677780-509300c8-057e-4172-ab52-1eee282a1e52.png)
+
 
     
 ### Interactive Design 
