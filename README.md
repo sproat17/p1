@@ -63,14 +63,16 @@ The control interface is 500×750 pixels, small enough to fit on almost all touc
 
 The User enters on floor 6 and travels to the Lobby of the building. 
 
-![single](https://user-images.githubusercontent.com/82000483/192673003-5e0a66e0-58ab-401c-82bc-06ce9c6b438c.gif)
+![single](https://user-images.githubusercontent.com/82000483/192678961-42b095cf-6144-4bb0-b7a9-34709b772016.gif)
+
+[1627777748133.webm](https://user-images.githubusercontent.com/82000483/192678985-e337655c-e262-4430-bf3e-744dff8165b6.webm)
 
 
 #### Handling Multiple Floors
 
 At least two users enter the elevator at the garage level. One choses floor 3 and the other floor 4. As the elevator stops at floor 3 a person enters and choses floor 2. The elevator travels to floor 4 and then goes down to floor 2. (Faster than would be safe)
 
-![multiple](https://user-images.githubusercontent.com/82000483/192673706-75fc4657-e9d9-4603-a659-1d358b3fcae7.gif)
+![multiple](https://user-images.githubusercontent.com/82000483/192678979-915ec522-f0a7-4d4d-bc9f-b860ab6680b9.gif)
 
 
 #### Handling Elevator Errors
