@@ -59,7 +59,7 @@ The control interface is 500×750 pixels, small enough to fit on almost all touc
     
 ### Interactive Design 
 
-#### Hnadling Single Floors
+#### Handling Single Floors
 
 ![single](https://user-images.githubusercontent.com/82000483/192652932-a3be19ae-64f6-4b3e-8bf4-68ccff1366ee.gif)
 
