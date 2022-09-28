@@ -30,7 +30,7 @@ The following elevator was found in Holden Hall on campus.
 | Full functionality   | Unkonwn floors | 
 | Buttons ligned up clearly between "G" and 3rd floor     | Ungrouped buttons      | 
 | Braille | Painting over "V" button     |  
-| Feedback | Decay of painting and buttons is distracitng     |  
+| Feedback | Redundant buttons     |  
 
 ## For a B:
 
