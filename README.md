@@ -19,6 +19,13 @@ The following elevator was Found in the Mathematics building on campus.
 | col 2 is      | centered      | 
 | zebra stripes | are neat      |
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## For a B:
 
 ![20220926_183335](https://user-images.githubusercontent.com/82000483/192629666-8fec563a-b9ec-4d10-9e9c-de73a5dc01f2.jpg)
